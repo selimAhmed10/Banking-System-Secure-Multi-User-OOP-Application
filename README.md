@@ -1,0 +1,2 @@
+# Banking-System-Secure-Multi-User-OOP-Application
+A Java Swing banking system with client &amp; admin dashboards. Clients can sign up, log in, check balances, deposit, withdraw, and request loans. Admins manage accounts and approve/reject loans. Implements OOP principles  with file-based data persistence. Features input validation and a clean, role-based GUI. Ideal for learning OOP &amp; GUI development.
